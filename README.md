@@ -9,4 +9,7 @@ git clone https://github.com/zulkou/bookbot.git
 cd bookbot
 mkdir books
 ```
-Before you can run this project, you need to put your txt file in `books` directory. You also need to replace any `frankenstein.txt` in `main.py` file with your `.txt` file name.
+Before you can run this project, you need to put your txt file in `books` directory. You also need to replace any `frankenstein.txt` in `main.py` file with your `.txt` file name. After that, executes the `main.py` file with:
+```bash
+python3 -m main
+```
