@@ -26,7 +26,7 @@ def book_report(filepath):
 
 	char_app = count_char_app(filepath)
 	for char, app in sorted(char_app.items(), reverse=True, key=lambda x: x[1]):
-		print(f"The '{char}' character was found {app} times")
+            print(f"{char}: {app}")
 
 	print("--- End report ---")
 
