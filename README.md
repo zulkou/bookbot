@@ -1,4 +1,5 @@
 # BookBot
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
 ## Description
 This project is a python script that can show you a report of your `.txt` file. This project is one of the guided projects in [boot.dev](https://www.boot.dev/courses/build-bookbot-python)
 
